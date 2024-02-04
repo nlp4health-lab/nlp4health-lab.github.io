@@ -15,7 +15,7 @@ related_publications: true, kesen-etal-2024vilma, 10.1613/jair.1.12918, Zonnevel
     <!-- Iacer Calixto, PhD -->
 </div>
 
-**Prospective students:** please read [this note](note-prospective-students) before emailing me.
+**Prospective students:** please read [this note](/team/principal-investigator/note-prospective-students) before emailing me.
 
 
 #### Background. 
