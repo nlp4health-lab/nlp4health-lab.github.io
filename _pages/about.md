@@ -19,4 +19,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to the website of the NLP4Health Lab Amsterdam led by [dr. Iacer Calixto](team/principal-investigator/)! We are located at the [Amsterdam UMC](https://www.amsterdamumc.org/en/research.htm) in the [University of Amsterdam](https://www.uva.nl/en/) and we conduct cutting-edge research on human-centric and responsible Natural Language Processing (NLP) and Machine Learning (ML) methods for healthcare and other high-stakes applications.
+Welcome to the website of the NLP4Health Lab Amsterdam led by [dr. Iacer Calixto](team/principal-investigator)! We are located at the [Amsterdam UMC](https://www.amsterdamumc.org/en/research.htm) in the [University of Amsterdam](https://www.uva.nl/en/) and we conduct cutting-edge research on human-centric and responsible Natural Language Processing (NLP) and Machine Learning (ML) methods for healthcare and other high-stakes applications.
