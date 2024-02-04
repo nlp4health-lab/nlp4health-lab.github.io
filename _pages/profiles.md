@@ -9,7 +9,7 @@ profiles:
   - align: left
     image: team_icalixto_600x450px.jpg
     content: description_icalixto.md
-    website: principal-investigator/
+    website: principal-investigator
     image_circular: false # crops the image to make it circular
   - align: left
     image: team_Nishant_Mishra_600x450px.png
