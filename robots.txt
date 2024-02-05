@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://responsiblenlp.github.io/sitemap.xml
+Sitemap: https://nlp4health-lab.github.io/sitemap.xml
