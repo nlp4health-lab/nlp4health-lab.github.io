@@ -39,5 +39,5 @@ You can find more about my current teaching and PhD supervision here.
  -->
 
 #### Other. 
-I am/have been/will be senior PC member for ECAI 2024 and AAAI 2024, co-organiser of the SemEval 2023 Visual Word Sense Disambiguation shared task, area chair for EACL 2021, and co-organiser of the Representation Learning for NLP (RepL4NLP) workshop 2021 (co-located with ACL 2021). I am a faculty member of the European Laboratory for Learning and Intelligent Systems (ELLIS) and a member of the Association for Computational Linguistics (ACL).
+I am/have been/will be area chair for ARR 2024 (February), senior PC member for ECAI 2024 and AAAI 2024, co-organiser of the SemEval 2023 Visual Word Sense Disambiguation shared task, area chair for EACL 2021, and co-organiser of the Representation Learning for NLP (RepL4NLP) workshop 2021 (co-located with ACL 2021). I am a faculty member of the European Laboratory for Learning and Intelligent Systems (ELLIS) and a member of the Association for Computational Linguistics (ACL).
 
