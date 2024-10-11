@@ -17,6 +17,16 @@ profiles:
     website: https://mnishant2.github.io/
     image_circular: false
   - align: left
+    image: team_Heloisa_Oss_Boll_600x450px.png
+    content: description_heloisa_oss_boll.md
+    website: https://www.linkedin.com/in/hossboll/
+    image_circular: false
+  - align: left
+    image: team_Xinlan_Yan_600x450px.jpg
+    content: description_xinlan_yan.md
+    website: https://www.linkedin.com/in/xinlan-yan-a1b467214/
+    image_circular: false
+  - align: left
     image: team_Rachel_Murphy_600x450px.jpg
     content: description_rachel_murphy.md
     website: https://researchinformation.amsterdamumc.org/en/persons/rachel-murphy
