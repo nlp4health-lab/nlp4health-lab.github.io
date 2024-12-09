@@ -12,6 +12,11 @@ profiles:
     website: principal-investigator
     image_circular: false # crops the image to make it circular
   - align: left
+    image: team_Alberto_Testoni_600x450px.jpg
+    content: description_alberto_testoni.md
+    website: https://albertotestoni.github.io/
+    image_circular: false
+  - align: left
     image: team_Nishant_Mishra_600x450px.png
     content: description_nishant_mishra.md
     website: https://mnishant2.github.io/
