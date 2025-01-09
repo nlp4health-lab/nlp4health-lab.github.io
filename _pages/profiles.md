@@ -17,6 +17,11 @@ profiles:
     website: https://albertotestoni.github.io/
     image_circular: false
   - align: left
+    image: team_Noman_Dormosh_600x450px.jpg
+    content: description_noman_dormosh.md
+    website: https://www.linkedin.com/in/noman-dormosh/
+    image_circular: false
+  - align: left
     image: team_Nishant_Mishra_600x450px.png
     content: description_nishant_mishra.md
     website: https://mnishant2.github.io/
