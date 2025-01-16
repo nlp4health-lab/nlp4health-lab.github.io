@@ -6,17 +6,17 @@ nav: true
 nav_order: 4
 ---
 
-We have a variety of activities in our lab to foster collaboration and learning. These include, but are not limited to, update meetings, paper reading groups, guest lectures, shared tsk collaboration, peer review, and general brainstorming. Click on the activity for further details.
+We have a variety of activities in our lab to foster collaboration and learning. These include, but are not limited to, update meetings, paper reading groups, guest lectures, shared task collaboration, peer review, and general brainstorming. Click on the activity for further details.
 
 <div class="activity">
-  <a href="/meetings/"> 
+  <a href="/reading-group-meetings/"> 
     {% include figure.liquid path="assets/img/reading-group.jpeg" title="Reading Group" class="activity-image"%}
     <!-- <img src="assets/img/reading-group.jpeg" alt="Reading Group Image" class="activity-image"> -->
   </a>
   <div class="activity-content">
     <h3>Reading Group</h3>
-    <p>Our reading group meets weekly to discuss recent papers and research trends in Natural Language Processing, specifically its applications to healthcare data in clinical settings. We encourage active participation and critical thinking.</p>
-    <a href="/meetings/">Learn more</a>
+    <p>Our reading group meets weekly to discuss recent papers and research trends in Natural Language Processing, and its applications to healthcare data in clinical settings. We encourage active participation and critical thinking.</p>
+    <a href="/reading-group-meetings/">Learn more</a>
   </div>
 </div>
 

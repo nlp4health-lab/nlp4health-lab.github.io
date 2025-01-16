@@ -1,6 +1,5 @@
 ---
-title: Reading Group
-permalink: /meetings/
+permalink: /reading-group-meetings/
 layout: page
 ---
 ## NLP4Health Reading Group
@@ -14,7 +13,11 @@ The major goals of our reading group meetings are:
 * To develop presentation and communication skills.
 
 The recent and upcoming events in the Reading group series are listed in the agenda below.
-
+<p>
+  Note: If you are interested in attending the reading group meetings, kindly reach out via mail to 
+  <a href="mailto:i.coimbra@amsterdamumc.nl">the PI</a>.
+</p>
+  
 <h3>Agenda</h3>
 
 <table class="reading-group-agenda">
@@ -26,12 +29,12 @@ The recent and upcoming events in the Reading group series are listed in the age
     </tr>
   </thead>
   <tbody>
-    {% assign sorted_meetings = site.meetings | sort: 'date' | reverse %}
+    {% assign sorted_meetings = site.reading_group_meetings | sort: 'date' | reverse %}
     {% for meeting in sorted_meetings %}
       <tr>
         <td>{{ meeting.date | date: "%B %d, %Y" }}</td>
         <td>
-          <a href="{{ meeting.url }}">{{ meeting.title }}</a>
+          <a href="{{ meeting.link }}">{{ meeting.title }}</a>
           {% if meeting.pdf %}
             (<a href="{{ meeting.pdf }}">PDF</a>)
           {% endif %}
