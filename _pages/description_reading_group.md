@@ -24,7 +24,7 @@ Upcoming events in the Reading group series are listed in the agenda below.
     </tr>
   </thead>
   <tbody>
-    {% assign sorted_meetings = site.reading_group_meetings | sort: 'date' | reverse %}
+    {% assign sorted_meetings = site.reading_group_meetings | sort: 'date' %}
     {% for meeting in sorted_meetings %}
       {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
       {% assign nowunix = nowunix | plus: 0 %}
