@@ -1,7 +1,7 @@
 ---
 title: "Improving biomedical entity linking for complex entity mentions with LLM-based text simplification"
 link: https://academic.oup.com/database/article/doi/10.1093/database/baae067/7721591
-date: "2025-03-20"
+date: "2025-04-17"
 presenter: "Eduardo Grande"
 layout: page
 ---
