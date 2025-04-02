@@ -1,6 +1,6 @@
 ---
-title: "TABPFN: A TRANSFORMER THAT SOLVES SMALL TABULAR CLASSIFICATION PROBLEMS IN A SECOND"
-link: https://openreview.net/pdf?id=cp5PvcI6w8_
+title: "Accurate predictions on small data with a tabular foundation model*"
+link: https://www.nature.com/articles/s41586-024-08328-6
 date: "2025-04-03"
 presenter: "Zeyu Zhang"
 layout: page
