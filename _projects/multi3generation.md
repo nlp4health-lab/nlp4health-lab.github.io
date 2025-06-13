@@ -7,7 +7,7 @@ end_year: 2024
 funding: EU COST Action
 img: assets/img/msca_logo.png
 importance: 2
-category: ongoing
+category: past
 related_publications: kesen-etal-2024vilma, barreiro-etal-2022-multi3generation, 10.1613/jair.1.12918, parcalabescu-etal-2022-valse
 #giscus_comments: true
 ---

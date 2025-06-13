@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Zeyu Zhang](https://www.linkedin.com/in/zeyu-zhang-8b2416204/) officially starts in the project ‘NLP and data management for mental health research’ with funding from the University of Amsterdam's [Data Science Centre](https://dsc.uva.nl/). Zeyu is co-supervised with [dr. Sebastian Schelter](https://ssc.io/).
+[Zeyu Zhang](https://jantory.github.io/) officially starts in the project ‘NLP and data management for mental health research’ with funding from the University of Amsterdam's [Data Science Centre](https://dsc.uva.nl/). Zeyu is co-supervised with [dr. Sebastian Schelter](https://ssc.io/).

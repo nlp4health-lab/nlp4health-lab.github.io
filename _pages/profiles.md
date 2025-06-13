@@ -44,6 +44,16 @@ profiles:
   - align: left
     image: team_Zeyu_Zhang_600x450px.jpg
     content: description_zeyu_zhang.md
-    website: https://www.linkedin.com/in/zeyu-zhang-8b2416204/
+    website: https://jantory.github.io/
+    image_circular: false
+  - align: left
+    image: team_Arnisa_Fazla_600x450px.jpg
+    content: description_arnisa_fazla.md
+    website: https://scholar.google.com/citations?user=dvDEcd0AAAAJ&hl=en
+    image_circular: false
+  - align: left
+    image: team_Maxim_Popov_600x450px.jpg
+    content: description_maxim_popov.md
+    website: https://www.linkedin.com/in/max-pop0v/
     image_circular: false
 ---
