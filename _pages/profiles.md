@@ -56,4 +56,9 @@ profiles:
     content: description_maxim_popov.md
     website: https://www.linkedin.com/in/max-pop0v/
     image_circular: false
+  - align: left
+    image: team_Camila_Tagliabue_600x450px.jpg
+    content: description_camila_tagliabue.md
+    website: https://www.linkedin.com/in/camila-zurdo-tagliabue-8904841ba/
+    image_circular: false
 ---
