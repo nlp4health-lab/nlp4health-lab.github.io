@@ -1,0 +1,15 @@
+@article{10.1371/journal.pone.0336237,
+    doi = {10.1371/journal.pone.0336237},
+    author = {Tank, Dilara AND Schor, Bianca G. S. AND Trommelen, Lisa M. AND Huirne, Judith A. F. AND Calixto, Iacer AND de Leeuw, Robert A.},
+    journal = {PLOS ONE},
+    publisher = {Public Library of Science},
+    title = {Automatic uterus segmentation in transvaginal ultrasound using U-Net and nnU-Net},
+    year = {2025},
+    month = {11},
+    volume = {20},
+    url = {https://doi.org/10.1371/journal.pone.0336237},
+    pages = {1-11},
+    abstract = {Purpose Transvaginal ultrasound (TVUS) is pivotal for diagnosing reproductive pathologies in individuals assigned female at birth, often serving as the primary imaging method for gynecologic evaluation. Despite recent advancements in AI-driven segmentation, its application to gynecological ultrasound still needs further attention. Our study aims to bridge this gap by training and evaluating two state-of-the-art deep learning (DL) segmentation models on TVUS data.   Materials and methods An experienced gynecological expert manually segmented the uterus in our TVUS dataset of 124 patients with adenomyosis, comprising still images (n = 122), video screenshots (n = 472), and 3D volume screenshots (n = 452). Two popular DL segmentation models, U-Net and nnU-Net, were trained on the entire dataset, and each imaging type was trained separately. Optimization for U-Net included varying batch size, image resolution, pre-processing, and augmentation. Model performance was measured using the Dice score (DSC).   Results U-Net and nnU-Net had good mean segmentation performances on the TVUS uterus segmentation dataset (0.75 to 0.97 DSC). We observed that training on specific imaging types (still images, video screenshots, 3D volume screenshots) tended to yield better segmentation performance than training on the complete dataset for both models. Furthermore, nnU-Net outperformed the U-Net across all imaging types. Lastly, we report the best results using the U-Net model with limited pre-processing and augmentations.   Conclusions TVUS datasets are well-suited for DL-based segmentation. nnU-Net training was faster and yielded higher segmentation performance; thus, it is recommended over manual U-Net tuning. We also recommend creating TVUS datasets that include only one imaging type and are as clutter-free as possible. The nnU-Net strongly benefited from being trained on 3D volume screenshots in our dataset, likely due to their lack of clutter. Further validation is needed to confirm the robustness of these models on TVUS datasets. Our code is available on https://github.com/dilaratank/UtiSeg.},
+    number = {11},
+
+}
