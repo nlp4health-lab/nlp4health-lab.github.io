@@ -1,3 +1,56 @@
+@inproceedings{mishra-etal-2026-investigating,
+    title = "Investigating Linear Probe Robustness to Linguistic Register, Medical Specialty, and Corpus Shifts in Medical QA",
+    author = "Mishra, Nishant  and
+      Abu-Hanna, Ameen  and
+      Calixto, Iacer",
+    editor = "Lee, Hung-Yi  and
+      Dev, Sunipa  and
+      Li, Jessy  and
+      Elliott, Desmond",
+    booktitle = "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing",
+    month = oct,
+    year = "2026",
+    address = "Budapest, Hungary",
+    publisher = "Association for Computational Linguistics",
+    url = "https://arxiv.org/abs/2609.01361",
+    doi = "10.48550/arXiv.2609.01361",
+    pages = "0--28",
+    abstract = "Linear classifiers trained on hidden states of a large language model (LLM)—linear probes—can flag factual errors from a single forward pass. Geometrically, that implies that true and false statements separate along a stable direction in hidden state space, i.e., the truth direction. Prior work disagrees on whether this generalises across input shifts, but the disagreement is hard to interpret because cross-dataset probe transfer experiments confound several kinds of input change at once. We isolate three such variables in medical question-answering (QA): writing style (register), domain (medical specialty), and corpus (dataset). We build a benchmark using 500 MedQA entries, each rewritten into four styles (textbook, patient, clinical note, colloquial), annotated with clinical specialty, and grouped with two other exam corpora, MedMCQA and MMLU-medical, for cross-dataset evaluation. Probing four open-weight LLMs (2--8B), we find that the truth direction is largely robust to writing style (mean $\Delta{\mathrm{register}} \approx 0.10$ AUROC on held-out facts) and to medical specialty ($\Delta{\mathrm{specialty}} \approx 0.03$), but degrades unevenly across corpora: by 0.12 AUROC on MMLU-medical and by 0.21 on MedMCQA, roughly twice the register gap. The register result replicates with a second generator and carries over to human-written patient questions. The truth direction is therefore largely stable within the medical domain but breaks under some corpus shifts, and question format does not explain the break, which suggests that the signal a linear probe recovers is partly bound to dataset structure rather than to medical knowledge alone.",
+    bibtex_show = "",
+    selected = "true",
+    abbr = "EMNLP",
+    html = "https://doi.org/10.48550/arXiv.2609.01361",
+    preview = "Mishra-etal-2026_Tab1.png",
+},
+
+@inproceedings{fazla-etal-2026-uncertainty,
+    title = "Uncertainty Is Not a Safety Net for Clinical VQA, but Can It Anticipate Model Failure?",
+    author = "Fazla, Arnisa  and
+      Testoni, Alberto  and
+      Abu-Hanna, Ameen  and
+      Plank, Barbara  and
+      Calixto, Iacer",
+    editor = "Lee, Hung-Yi  and
+      Dev, Sunipa  and
+      Li, Jessy  and
+      Elliott, Desmond",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2026",
+    month = oct,
+    year = "2026",
+    address = "Budapest, Hungary",
+    publisher = "Association for Computational Linguistics",
+    url = "https://arxiv.org/abs/2606.16583",
+    doi = "10.48550/arXiv.2606.16583",
+    pages = "0--20",
+    abstract = "Safe deployment of clinical vision-language models (VLMs) requires reliable uncertainty estimation (UE): a signal indicating when predictions should be trusted or escalated to a clinician. We test whether current UE methods actually deliver this signal. Benchmarking 8 methods across 12 VLMs on clinical visual question-answering (VQA), we find that UE quality is not an intrinsic property of the UE method: it tracks model accuracy, degrading precisely where the model performance is weakest, and therefore where reliability is most needed. When we stress-test models by hiding the correct option among the multiple-choice answers (NOTA perturbations), accuracy collapses while uncertainty barely changes, leaving models systematically miscalibrated. Yet, we find that uncertainty on the unperturbed input reliably anticipates which predictions will collapse under NOTA, indicating that UE in current VLMs carries diagnostic information about model fragility. Our results position UE as a diagnostic tool for identifying fragile predictions and motivate perturbation-based evaluation as a path toward safe clinical deployment.",
+    bibtex_show = "",
+    selected = "true",
+    abbr = "EMNLP Findings",
+    html = "https://doi.org/10.48550/arXiv.2606.16583",
+    preview = "Fazla-etal-2026_Fig3.png",
+},
+
+
 @inproceedings{testoni-calixto-2026-calibrated,
     title = "Calibrated? Not for Everyone: How Sexual Orientation and Religious Markers Distort {LLM} Accuracy and Confidence in Medical {QA}",
     author = "Testoni, Alberto  and
