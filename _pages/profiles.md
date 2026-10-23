@@ -37,11 +37,6 @@ profiles:
     website: https://www.linkedin.com/in/xinlan-yan-a1b467214/
     image_circular: false
   - align: left
-    image: team_Rachel_Murphy_600x450px.jpg
-    content: description_rachel_murphy.md
-    website: https://researchinformation.amsterdamumc.org/en/persons/rachel-murphy
-    image_circular: false
-  - align: left
     image: team_Zeyu_Zhang_600x450px.jpg
     content: description_zeyu_zhang.md
     website: https://jantory.github.io/
@@ -60,5 +55,12 @@ profiles:
     image: team_Camila_Tagliabue_600x450px.jpg
     content: description_camila_tagliabue.md
     website: https://www.linkedin.com/in/camila-zurdo-tagliabue-8904841ba/
+    image_circular: false
+    
+alumniprofiles:
+  - align: left
+    image: team_Rachel_Murphy_600x450px.jpg
+    content: description_rachel_murphy.md
+    website: https://researchinformation.amsterdamumc.org/en/persons/rachel-murphy
     image_circular: false
 ---
